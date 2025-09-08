@@ -21,7 +21,8 @@
 - Smart Infrastructure & Sustainability  
 
 ### 📫 How to reach me
-- 📧 [Email](mailto:lakshmipriya072212@gmail.com)  
+- 📧 [Email](mailto:lakshmipriya072212@gmail.com)
+  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-r-481430258/)  
 
 
