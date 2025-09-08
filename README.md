@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**lakshmiraj127/lakshmiraj127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Lakshmi Priya  
 
-Here are some ideas to get you started:
+💡 Passionate Electronics & Communication Engineer | IoT | Embedded Systems | Robotics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I’m working on
+- 🚀 Automated Waste Segregation System using ESP32 & sensors  
+- 🤖 Gesture-Controlled Robotic Arm for assistive technology  
+- 🌦️ IoT-based Weather Station with Raspberry Pi Pico  
+
+### 🌱 Currently Learning
+- PCB Designing 🖇️  
+- Digital & Analog Electronics Fundamentals  
+- Machine Learning for Computer Vision  
+
+### 👯 Looking to collaborate on
+- IoT & Embedded Projects  
+- Robotics Applications  
+- Smart Infrastructure & Sustainability  
+
+### 📫 How to reach me
+- 📧 [Email](lakshmipriya072212@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-r-481430258/)  
+
+
+---
+
+⭐️ From [lakshmiraj127](https://github.com/lakshmiraj127)
+
